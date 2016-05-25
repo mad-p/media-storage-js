@@ -29,7 +29,7 @@ client.setResourceOwnerCreds('<your_user_id>', '<your_password>');
 const mstorage = new MStorage(client);
 mstorage.connect()
 .then(() => mstorage.upload('./upload_file_path.jpg'))
-.then(() => console.log('uploaded')
+.then(() => console.log('uploaded'))
 .catch(e => console.log(e));
 ```
 
