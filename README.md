@@ -1,6 +1,6 @@
 # Ricoh Media Storage for JavaScript
 
-Media Storage Javascript Library using Ricoh API.
+Media Storage Javascript Library for Ricoh API.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ You need
     Ricoh API Client Credentials (client_id & client_secret)
     Ricoh ID (user_id & password)
 
-If you don't have them, please register them at [THETA Developers Website](http://contest.theta360.com/).
+If you don't have them, please register yourself and your client at [THETA Developers Website](http://contest.theta360.com/).
 
 ## Install
 
@@ -17,7 +17,7 @@ If you don't have them, please register them at [THETA Developers Website](http:
 $ npm install ricohapi-mstorage
 ```
 
-## Upload a .jpg file
+## Uploading a JPEG file
 
 ```JavaScript
 const MStorage = require('ricohapi-mstorage').MStorage;
