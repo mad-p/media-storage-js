@@ -9,7 +9,7 @@ You need
     Ricoh API Client Credentials (client_id & client_secret)
     Ricoh ID (user_id & password)
 
-If you don't have them, please register yourself and your client at [THETA Developers Website](http://contest.theta360.com/).
+If you don't have them, please register yourself and your client from [THETA Developers Website](http://contest.theta360.com/).
 
 ## Install
 
